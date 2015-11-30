@@ -1,0 +1,16 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1B\Prog1B\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1B\Prog1B\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1B\Prog1B\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1B\Prog1B\bin\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog1B\Prog1B\obj\x86\Debug\Prog1B.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1B\Prog1B\obj\x86\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1B\Prog1B\obj\x86\Debug\Prog1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1B\Prog1B\bin\Debug\Prog1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog1B\Prog1B\bin\Debug\Prog1.pdb
+C:\Users\Nick\Documents\CIS 200\Solutions\Prog1B\Prog1B\obj\x86\Debug\Prog1.exe
+C:\Users\Nick\Documents\CIS 200\Solutions\Prog1B\Prog1B\obj\x86\Debug\Prog1.pdb
+C:\Users\Nick\Documents\CIS 200\Solutions\Prog1B\Prog1B\bin\Debug\Prog1.exe
+C:\Users\Nick\Documents\CIS 200\Solutions\Prog1B\Prog1B\bin\Debug\Prog1.pdb
+C:\Users\Nick\Documents\CIS 200\Solutions\Prog1B\Prog1B\obj\x86\Debug\Prog1B.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\CIS 200\CIS-200-HW\Prog4\Prog1B\obj\x86\Debug\Prog1.exe
+C:\Users\Nick\Documents\CIS 200\CIS-200-HW\Prog4\Prog1B\obj\x86\Debug\Prog1.pdb

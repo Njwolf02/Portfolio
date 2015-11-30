@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Pie Space</title>
+          @Styles.Render("~/Content/css")
+          @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.6/css/jquery.dataTables.min.css" />
+          @RenderSection("pagecss", false)></head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top" id="pizza-navbar">
+        <div class="container">
+
+            <div class="navbar-header">
+
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img src="http://media.giphy.com/media/TeeJEaWQtb9mg/giphy.gif" style="width:50px;" alt="Alternate Text" />
+
+                @Html.ActionLink("Pie Space", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="@Url.Action("Menu", "Home")">Fan Favorites</a></li>
+                    <!--Commented out unless we want to use them later.-->
+                    <!--<li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>-->
+                    @if (Request.IsAuthenticated)
+                    {
+                        <li>@Html.ActionLink("Our Community", "GetUsers", "Account")</li>
+                        <li>@Html.ActionLink("View Profile", "ViewProfile", "Account")</li>
+                        <li>@Html.ActionLink("Pizzas", "Index", "Pizzas")</li>
+                    }
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Pie Space</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script type="text/javascript" src="//cdn.datatables.net/1.10.6/js/jquery.dataTables.min.js"></script>
+            </body>
+</html>

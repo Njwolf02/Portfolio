@@ -1,0 +1,99 @@
+#button, #replay
+{
+    background-color: #FF0000;
+    width: 80px;
+    text-align: center;
+    margin-left: 10px;
+}
+#turndisplay
+{
+    
+    width: 95px;
+    text-align: center;
+    margin-left: 200px;
+}
+#display
+{
+    
+}
+#board
+{
+    text-align: center;
+    vertical-align: middle;
+}
+#aa
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: 80px;
+    border-right: thin double #ff0000;
+    border-bottom: thin double #ff0000;
+}
+#ab
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: -51px;
+    border-right: thin double #ff0000;
+    border-bottom: thin double #ff0000;
+}
+#ac
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: -51px;
+    border-bottom: thin double #ff0000;
+}
+#ba
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 100px;
+    border-right: thin double #ff0000;
+    border-bottom: thin double #ff0000;
+}
+#bb
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: -51px;
+    border-right: thin double #ff0000;
+    border-bottom: thin double #ff0000;
+}
+#bc
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: -51px;
+    border-bottom: thin double #ff0000;
+}
+#ca
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 100px;
+    border-right: thin double #ff0000;
+    
+}
+#cb
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+    margin-top: -51px;
+    border-right: thin double #ff0000;
+    
+}
+#cc
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: -51px;
+    
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="styles3.css">
+  <title>Contact Us</title>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+	<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.js"></script>
+	<script>
+		$(document).ready(function(){
+		$("#commentForm").validate();
+		});
+	</script>
+
+</head>
+
+<body>
+<div class="sidebar">
+		<a href="index.html"><h2>Welcome Page</h2></a>
+		<a href="contactUs.html"><h2>Contact Us</h2></a>
+		<a href="FAQ.html"><h2>FQA</h2></a>
+		<a href="ticTacToe.html"><h2>Tic Tac Toe</h2></a>
+		<a href="registrationForm.html"><h2> Registration Form </h2></a>
+</div>
+<div class="textBody">
+
+    <h2>Registration    </h2>
+	<form class="cmxform" id="commentForm" method="get" action="">
+    First Name:
+    <input name="name" size="25" class="required" minlength="2" />
+	<br>
+	<br>
+	Middle Initial:
+    <input name="bname" class="required" maxlength="1" size="1" />
+	<br>
+	<br>
+    Last Name:
+    <input name="cname" size="25" class="required" minlength="2" />
+	<br>
+	<br>
+	Email: 
+	<br>
+    <input name="email" size="25" class="required" minlength="2" />
+    <br>
+	<br>
+    Username:
+    <br>
+    <input name="dname" class="required" minlength="2" />
+	<br>
+	<br>
+    <input class="submit" type="submit" value="Submit" />
+	</form>
+
+</div>
+</body>
+</html>
