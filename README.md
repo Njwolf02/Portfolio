@@ -1,8 +1,8 @@
 Nick Wolf
 =============
 
-- [Github account][] ([Nick Wolf][])
-- [Linkin Account][] ([LinkIn][])
+- [Nick Wolf][]
+- [LinkIn][]
 
 
 
