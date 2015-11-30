@@ -1,5 +1,3 @@
-<img align="center" src="http://learningkeeper.com/wp-content/uploads/2013/09/Ditital-portflio-building-LearningKeeper-Homeschool-Online-Digital-Portfolio-Compliance-Record-Keeping-Software.jpg" width="50%">
-
 Nick Wolf
 =============
 
