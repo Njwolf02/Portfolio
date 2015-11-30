@@ -17,7 +17,7 @@ Table of content
   - [Create View](https://github.com/Njwolf02/Portfolio/blob/master/SQL/CreateViewExample.sql)
   - [Stored Procedure](https://github.com/Njwolf02/Portfolio/blob/master/SQL/StoreP.sql)
   - [Trigger](https://github.com/Njwolf02/Portfolio/blob/master/SQL/TriggerExample.sql)
-- [Web Development](https://github.com/Njwolf02?tab=repositories)
+- [Web Development](https://github.com/Njwolf02?tab=repositories){:target="_blank"}
   - [JQuery](https://github.com/Njwolf02/Portfolio/tree/master/JQuery)
     - [Tic Tac Toe Example](http://njwolf02.github.io/JQuery-Intro/ticTacToe.html)
   - [BootStrap](https://github.com/Njwolf02/BootStrap-Example)
