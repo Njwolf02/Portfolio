@@ -12,6 +12,7 @@ Table of content
   - [Class Example](https://github.com/Njwolf02/Portfolio/blob/master/CExample/CExample/Address.cs)
   - [Generic](https://github.com/Njwolf02/Portfolio/blob/master/CExample/CExample/SortByTypeThenCost.cs)
   - [LINQ](https://github.com/Njwolf02/CIS-200-HW/blob/master/Lab1/Lab1/LinqTest.cs)
+  - [Other C# Programs](https://github.com/Njwolf02/CIS-200-HW)
 - [SQL Examples](https://github.com/Njwolf02/Portfolio/tree/master/SQL)
   - [SQL Examples](https://github.com/Njwolf02/Portfolio/blob/master/SQL/SqlExample.sql)
   - [Create View](https://github.com/Njwolf02/Portfolio/blob/master/SQL/CreateViewExample.sql)
