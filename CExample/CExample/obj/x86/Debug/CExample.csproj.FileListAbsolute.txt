@@ -7,3 +7,5 @@ C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\bin\Debug\CExample.ex
 C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\bin\Debug\CExample.pdb
 C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\obj\x86\Debug\CExample.exe
 C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\obj\x86\Debug\CExample.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\bin\Debug\CExample.exe.CodeAnalysisLog.xml
+C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\bin\Debug\CExample.exe.lastcodeanalysissucceeded
