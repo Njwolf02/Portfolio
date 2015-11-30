@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\GitHub\Portfolio\Prog4\Prog4\bin\Debug\CExample.exe
+C:\Users\Nick\Documents\GitHub\Portfolio\Prog4\Prog4\bin\Debug\CExample.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\Prog4\Prog4\obj\x86\Debug\CExample.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\Portfolio\Prog4\Prog4\obj\x86\Debug\CExample.exe
+C:\Users\Nick\Documents\GitHub\Portfolio\Prog4\Prog4\obj\x86\Debug\CExample.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\bin\Debug\CExample.exe
+C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\bin\Debug\CExample.pdb
+C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\obj\x86\Debug\CExample.exe
+C:\Users\Nick\Documents\GitHub\Portfolio\CExample\CExample\obj\x86\Debug\CExample.pdb

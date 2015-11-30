@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog4", "Prog4\Prog4.csproj", "{942F54E9-FCCE-4F2D-873F-DA19D2958159}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CExample", "CExample\CExample.csproj", "{942F54E9-FCCE-4F2D-873F-DA19D2958159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
